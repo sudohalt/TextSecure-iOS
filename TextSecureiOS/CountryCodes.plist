@@ -1406,6 +1406,15 @@
 		<key>name</key>
 		<string>Palau</string>
 	</dict>
+	<key>Palestine</key>
+	<dict>
+		<key>code</key>
+		<string>PS</string>
+		<key>country_code</key>
+		<string>970</string>
+		<key>name</key>
+		<string>Palestine</string>
+	</dict>
 	<key>Panama</key>
 	<dict>
 		<key>code</key>
